@@ -1,10 +1,10 @@
-import matplotlib.pyplot as plt
-from PIL import Image
 import requests
-from io import BytesIO
-from enum import Enum
 import math
 import logging
+
+from io import BytesIO
+from enum import Enum
+from PIL import Image
 
 logging.basicConfig(level=logging.INFO)
 
