@@ -6,7 +6,7 @@
 # Motivation
 I had a pretty nasty tick (klíště) on my foot and since we've already had a boreliosis case in my family we're extra cautious. I always knew that CHMU publishes these nice maps that show for example the tick activity for a given day but you'd always have to lookup a map and look at it.
 
-I don't consider "manually looking on a map and figuring out colors" a viable approach for the modern data driven world. 
+I don't consider "manually looking on a map and figuring out colors" a viable approach for the modern data driven world. Let Python do it for you...
 
 # Usage
 - I'm going to make a public rate-limited API so that this piece of code is usable. 
