@@ -17,3 +17,5 @@ I don't consider "manually looking on a map and figuring out colors" a viable ap
 - The code is able to transform real world coordinates within the borders of the Czech republic to a CHMU map.
 - It will then recognize the map color at given coordinates and match it to the severity. 
 - Then it will return the severity value and description as a dict.
+
+![chmu_kliste](images/image.png)
