@@ -1,6 +1,7 @@
 # CHMÚ API
 - This repository contains API for Český hydrometeorologický ústav (CHMU) since they don't have a public one. 
-- Current version only provides access to tick (klíště) activity for the current day.
+> [!IMPORTANT]
+> Current version only provides access to tick (klíště) activity for the current day.
 
 # Motivation
 I had a pretty nasty tick (klíště) on my foot and since we've already had a boreliosis case in my family we're extra cautious. I always knew that CHMU publishes these nice maps that show for example the tick activity for a given day but you'd always have to lookup a map and look at it.
